@@ -15,7 +15,7 @@ The main goal is identify the best model, and adjust to work in all cases.
 3. Then, trained the models LGBM and CNN and checked the auc score for train and test. 
 4. The best model was CNN.
 5. it was necessary to treat the preview images for the model to be able to make the prediction.
-6. 
+
 ## Conclusion
 
 -CNN model is better than LGBM for image analysis:
