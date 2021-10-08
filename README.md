@@ -18,10 +18,9 @@ The main goal is identify the best model, and adjust to work in all cases.
 
 ## Conclusion
 
--CNN model is better than LGBM for image analysis:
- -LGBM sees each pixel individually
- -CNN analyzes set of pixels.
- 
+-CNN model is better than LGBM for image analysis
+-LGBM sees each pixel individually
+-CNN analyzes set of pixels
 -Image handling is very important for the CNN model to work correctly, such as image color, position and rotation.
 -CNN model is widely used in image and video analysis, and is in great development.
 
